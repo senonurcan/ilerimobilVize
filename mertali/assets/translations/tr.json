@@ -1,0 +1,19 @@
+{
+    "welcome": "Uygulamama hoş geldiniz",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Oturum Kapat",
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "title": "Başlık",
+    "home_page": {
+        "title": "Ana Sayfa",
+        "content": "Güzel bir gün geçirmeniz dileğiyle. İşte size öneriler:",
+        "suggestions": "Öneriler",
+        "suggestion": "Öneri",
+        "add": "Öneri Ekle"
+    },
+    "content": "İçerik",
+    "author": "Yazar",
+    "change_language": "Dili Değiştir"
+}
